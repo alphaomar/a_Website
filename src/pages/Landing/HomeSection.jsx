@@ -19,7 +19,7 @@ const HomeSection = () => {
       <div className="x_container flex items-center justify-between">
         <div className="w-full md:w-5/12 flex flex-col gap-5 relative z-30 lg:pb-36">
           <h2 className="bg-gradient-to-r from-gray-700 to-gray-900 dark:from-blue-400 dark:to-yellow-500 bg-clip-text text-transparent font-bold sm:w-[500px]">
-            Beautiful Pure TailwindCSS Components
+            Computer science Project
             <span className="text-blue-600"> for you! </span>
           </h2>
           <div className="flex items-center gap-3">
